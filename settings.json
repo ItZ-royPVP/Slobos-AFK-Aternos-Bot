@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "WbitoLand.aternos.me",
-    "port": 55812,
+    "port": 25565,
     "version": "1.21.1",
     "try-creative": false
   },
