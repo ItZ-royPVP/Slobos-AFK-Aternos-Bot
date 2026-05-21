@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WbitoLand.aternos.me ",
+    "ip": "WbitoLand.aternos.me",
     "port": 55812,
     "version": "1.21.1",
     "try-creative": true
